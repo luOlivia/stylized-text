@@ -76,13 +76,57 @@ html,
 body {
   width: 100%;
   height: 50%;
-  background-color: #FF3381;
+  background-color: white;
+}
+#top,
+#bottom {
+    position: relative;
+    left: 0;
+    right: 0;
+    height: 50%;
 }
 
+#top {
+    top: 0;
+    background-color: #FF3381;
+    position: absolute;
+}
+#bottom {
+    bottom: 0;
+    background-color: white;
+}
 body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+#the1975
+{
+    height:189px;
+    width:142px;
+    position:relative;
+}
+
+#the1975image
+{    
+    position:absolute;
+    left:0;
+    top:0;
+    width:189px;
+    height: 142px;
+}
+#the1975text
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:26px;
+    font-weight:bold;
+    text-shadow: 2px 2px 4px #000000;
+    left:35px;
+    top:35px;
+
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
