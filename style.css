@@ -80,7 +80,7 @@ body {
 }
 #top,
 #bottom {
-    position: fixed;
+    position: relative;
     left: 0;
     right: 0;
     height: 50%;
@@ -89,8 +89,8 @@ body {
 #top {
     top: 0;
     background-color: #FF3381;
+    position: fixed;
 }
-
 #bottom {
     bottom: 0;
     background-color: white;
@@ -103,8 +103,8 @@ body {
 
 #the1975
 {
-    height:289px;
-    width:242px;
+    height:189px;
+    width:142px;
     position:relative;
 }
 
