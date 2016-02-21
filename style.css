@@ -89,7 +89,7 @@ body {
 #top {
     top: 0;
     background-color: #FF3381;
-    position: fixed;
+    position: relative;
 }
 #bottom {
     bottom: 0;
@@ -113,8 +113,8 @@ body {
     position:absolute;
     left:0;
     top:0;
-    width:289px;
-    height: 242px;
+    width:189px;
+    height: 142px;
 }
 #the1975text
 {
