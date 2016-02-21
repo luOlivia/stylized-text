@@ -78,7 +78,23 @@ body {
   height: 50%;
   background-color: #FF3381;
 }
+#top,
+#bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 50%;
+}
 
+#top {
+    top: 0;
+    background-color: #FF3381;
+}
+
+#bottom {
+    bottom: 0;
+    background-color: white;
+}
 body {
   color: #fff;
   text-align: center;
@@ -108,8 +124,8 @@ body {
     font-size:26px;
     font-weight:bold;
     text-shadow: 2px 2px 4px #000000;
-    left:25px;
-    top:50px;
+    left:35px;
+    top:75px;
 
 }
 
