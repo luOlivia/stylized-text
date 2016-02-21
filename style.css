@@ -85,6 +85,32 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+#the1975
+{
+    height:400px;
+    width:400px;
+    position:relative;
+}
+
+#image
+{    
+    position:absolute;
+    left:0;
+    top:0;
+    width:289px;
+  height: 242px;
+}
+#text
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
