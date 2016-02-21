@@ -105,7 +105,8 @@ body {
     z-index:100;
     position:absolute;    
     color:white;
-    font-size:24px;
+    font-size:26px;
+    font-weight:bold;
     left:50px;
     top:50px;
 
