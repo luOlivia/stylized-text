@@ -89,7 +89,7 @@ body {
 #top {
     top: 0;
     background-color: #FF3381;
-    position: relative;
+    position: absolute;
 }
 #bottom {
     bottom: 0;
@@ -125,7 +125,7 @@ body {
     font-weight:bold;
     text-shadow: 2px 2px 4px #000000;
     left:35px;
-    top:75px;
+    top:35px;
 
 }
 
