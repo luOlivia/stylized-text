@@ -97,6 +97,8 @@ body {
     position:absolute;
     left:0;
     top:0;
+    width:289px;
+    height: 242px;
 }
 #1975text
 {
@@ -104,8 +106,7 @@ body {
     position:absolute;    
     color:white;
     font-size:24px;
-    left:150px;
-    top:350px;
+
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
