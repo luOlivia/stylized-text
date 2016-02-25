@@ -105,6 +105,7 @@ body {
 
 #the1975
 {
+    float: left;
     height:189px;
     width:142px;
     position:relative;
@@ -132,6 +133,7 @@ body {
 }
 #bastille
 {
+    float: left;
     height:200px;
     width:142px;
     position:relative;
@@ -157,6 +159,35 @@ body {
     top:35px;
 
 }
+#chvrches
+{
+    float: left;
+    height:230px;
+    width:142px;
+    position:relative;
+}
+
+#chvrchesimage
+{    
+    position:absolute;
+    left:0;
+    top:0;
+    width:189px;
+    height: 142px;
+}
+#chvrchestext
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:26px;
+    font-weight:bold;
+    text-shadow: 2px 2px 4px #000000;
+    left:35px;
+    top:35px;
+
+}
+
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
