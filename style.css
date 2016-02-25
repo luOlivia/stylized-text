@@ -105,6 +105,7 @@ body {
 
 #the1975
 {
+    float: left;
     height:189px;
     width:142px;
     position:relative;
@@ -132,6 +133,7 @@ body {
 }
 #bastille
 {
+    float: left;
     height:200px;
     width:142px;
     position:relative;
@@ -159,6 +161,7 @@ body {
 }
 #chvrches
 {
+    float: left;
     height:230px;
     width:142px;
     position:relative;
