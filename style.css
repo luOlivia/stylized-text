@@ -115,6 +115,8 @@ body {
 #the1975image
 {    
     position:absolute;
+    float: left;
+    margin-right:50px;
     left:0;
     top:0;
     width:189px;
@@ -122,6 +124,7 @@ body {
 }
 #the1975text
 {
+    
     z-index:100;
     position:absolute;    
     color:white;
@@ -144,7 +147,8 @@ body {
 #bastilleimage
 {    
     position:absolute;
-    
+    float: left;
+    margin-right:50px;
     left:0;
     top:0;
     width:189px;
