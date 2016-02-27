@@ -91,7 +91,7 @@ body {
 #top {
     top: 0;
     background-color: #FF3381;
-    text-align: center;
+    
     position: absolute;
 }
 #bottom {
@@ -170,7 +170,7 @@ body {
 #chvrches
 {
     float: left;
-    margin-right:50px;
+    margin-right:80px;
     height:230px;
     width:142px;
     position:relative;
