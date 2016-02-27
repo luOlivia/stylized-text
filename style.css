@@ -169,7 +169,7 @@ body {
 #chvrches
 {
     float: left;
-    margin-right:50px;
+    margin-right:80px;
     height:230px;
     width:142px;
     position:relative;
@@ -178,6 +178,7 @@ body {
 #chvrchesimage
 {    
     position:absolute;
+    margin-right:80px;
     left:0;
     top:0;
     width:189px;
