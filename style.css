@@ -91,6 +91,7 @@ body {
 #top {
     top: 0;
     background-color: #FF3381;
+    text-align: center;
     position: absolute;
 }
 #bottom {
