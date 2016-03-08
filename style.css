@@ -169,9 +169,9 @@ body {
 }
 #chvrches
 {
-    float: right;
-    margin-right:80px;
-    height:230px;
+    float: left;
+    margin-right:150px;
+    height:200px;
     width:142px;
     position:relative;
 }
@@ -179,10 +179,12 @@ body {
 #chvrchesimage
 {    
     position:absolute;
-    margin-right:80px;
+    float: left;
+    margin-right:150px;
     left:0;
     top:0;
-
+    width:189px;
+    height: 142px;
 }
 #chvrchestext
 {
@@ -192,7 +194,7 @@ body {
     font-size:26px;
     font-weight:bold;
     text-shadow: 2px 2px 4px #000000;
-    left:25px;
+    left:35px;
     top:35px;
 
 }
